@@ -1,9 +1,9 @@
 name: picacgPunch
 
-
+on:
 
   push:
-    分支: [ main ]    
+    branches: [ main ]    
     paths:
     - '**'
     - '!.gitignore'
