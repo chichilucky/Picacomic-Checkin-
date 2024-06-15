@@ -1,6 +1,6 @@
 # 哔咔签到
 
-根据https://github.com/leeairw/Enshan 项目修改而来
+根据 https://github.com/FirmianaMarsili/picacomic-Punch 项目修改而来
 - **每天定时运行**
 - **vs2019**
 - **.net5.0**
